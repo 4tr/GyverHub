@@ -6,6 +6,12 @@
 [![Foo](https://img.shields.io/badge/ПОДПИСАТЬСЯ-НА%20ОБНОВЛЕНИЯ-brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/GyverLibs)
 
 # GyverHub !ветка с доработками которые не будут внедряться в официальную версию! 
+
+неофициальные доработки:
+
+-поддержка URL для перехода сразу на устройство
+-если не включен GH_INCLUDE_PORTAL появляется возможность загрузить файлы в есп не прибегая к специальным утилитам, достаточно иметь любой браузер.
+
 Панель управления для esp8266, esp32 и других Arduino. Конструктор интерфейса, интеграция в умный дом
 
 > <br>**Документация находится в [Wiki репозитория](https://github.com/GyverLibs/GyverHub/wiki). English docs - [translate](https://github-com.translate.goog/GyverLibs/GyverHub/wiki?_x_tr_sl=ru&_x_tr_tl=en)**<br><br>
